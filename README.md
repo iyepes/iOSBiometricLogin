@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A sample iOS app to demonstrate logins using biometrics (Face ID/Touch ID) available.
+Clonned from [iOSBiometricLogin](https://github.com/zaimramlan/iOSBiometricLogin/tree/develop)
 
 | ![Face ID](http://g.recordit.co/mGg3QzPd2m.gif) | ![Touch ID](http://g.recordit.co/nr8sNbN8oe.gif) |
 |-------------------------------------------------|--------------------------------------------------|
